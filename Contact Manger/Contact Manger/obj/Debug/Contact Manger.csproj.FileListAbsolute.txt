@@ -1,0 +1,7 @@
+D:\Tasks\Contact Manger\Contact Manger\obj\Debug\Contact Manger.csproj.AssemblyReference.cache
+D:\Tasks\Contact Manger\Contact Manger\obj\Debug\Contact Manger.csproj.CoreCompileInputs.cache
+D:\Tasks\Contact Manger\Contact Manger\bin\Debug\Contact Manger.exe.config
+D:\Tasks\Contact Manger\Contact Manger\bin\Debug\Contact Manger.exe
+D:\Tasks\Contact Manger\Contact Manger\bin\Debug\Contact Manger.pdb
+D:\Tasks\Contact Manger\Contact Manger\obj\Debug\Contact Manger.exe
+D:\Tasks\Contact Manger\Contact Manger\obj\Debug\Contact Manger.pdb
